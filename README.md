@@ -13,9 +13,9 @@ The program is **not** rooted in ssience, but rahter, it offers hueristics based
 
 All source code and the README's, complete with spelling errors (there was no spell checking in Turbo Pascal in 1990) are included. A release with fully funcational exe files that will run in DOSBOX is also provided.
 
-For context, this program was written on a 1987-era IBM PS/2 Model 30, with 640KB of RAM and a 20MB hard disk. There was no internet at the time. Any communication we were lucky enough to have was via a telephone modem at 19,200 bps to a local BBS (buliten board system).
+For context, this program was written on a 1987-era IBM PS/2 Model 30, with 640KB of RAM and a 20MB hard disk and an 8MHz 8086 CPU. There was no internet at the time. Any communication we were lucky enough to have was via a telephone modem at 19,200 bps to a local BBS (buliten board system).
 
-Dr. Morton Nadler was the professor of the class. Each student was required to submit a *unique* final project; no two students could work on a project teogether, nor could two students submit a substantianlly similar project. Chess was not allowed at all as a final project. 
+Dr. Morton Nadler was the professor of the class. Each student was required to submit a *unique* final project; no two students could work on a project teogether, nor could two students submit a substantianlly similar project. Chess was not allowed at all as a final project. We had complete freedom in programming language selection. At this point in college, I had used BASIC, FORTRAN, COBOL, Lisp, PROLOG, C, Pascal, 8085 assembly and 68000 assembly. I selected Pascal as my language of choice; it was like the Python of the era. Pascal had good string processing capability and was easier to debug than C. I found the "real" AI languages like Lisp and PROLOG to be horribly abstract. It is not wonder that my first job was as an embedded assembly language programmer at IBM. 
 
 For more background, and details of this project, check out my blog at [zeisz.com](https://www.zeisz.com)
 
