@@ -16,6 +16,6 @@ For context, this program was written on a 1987-era IBM PS/2 Model 30, with 640K
 
 Dr. Morton Nadler was the professor of the class. Each student was required to submit a unique final project; no two students could work on a project together, nor could two students submit a substantially similar project. We had freedom in programming language selection. At this point in college, I had used BASIC, FORTRAN, COBOL, Lisp, PROLOG, C, Pascal, 8085 assembly and 68000 assembly. I selected Pascal as my language of choice; it was like the Python of the era. Pascal had good string processing capability and was easier to debug than C. I found the "real" AI languages like Lisp and PROLOG to be horribly abstract. It is no wonder that my first job was as an embedded assembly language programmer at IBM.
 
-For more background, and details of this project, check out my blog at [zeisz.com](https://www.zeisz.com)
+For more background, and details of this project, check out my blog on [medium.com](https://medium.com/@rayzeisz/internet-dating-in-1990-e32eb414c1ce)
 
 #### Copyright (c) Ray Zeisz 1990, 2023
