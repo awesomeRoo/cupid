@@ -6,7 +6,7 @@ This is a program I wrote in 1990 as the final project for a class in Artificial
 
 This program implements some basic AI principles which, at the time, were cutting edge. Neural networks, expert systems, heuristics, and non-determinism in computers were not really common topics.
 
-The program implemets a system to match people, for the purposes of dating, with other users, based on their Myers-Briggs personality temperament.
+The program implements a system to match people, for the purposes of dating, with other users, based on their Myers-Briggs personality temperament.
 
 The program is not rooted in science, but rather, it offers heuristics based on my, and several other friend's, experience with dating at the ripe old age of 20. The exact values assigned to the various rules of the expert system and the matching heuristic weights are not based on any real scientific work; however, the general idea of using the Myers-Briggs to build an AI was novel and not known to me, or my professor, or his wife, who taught psychology at Virginia Tech.
 
